@@ -1,6 +1,9 @@
 ### Hi there 👋 I am Pavan Kumar D
 ### Data science professional with strong math background who takes pride in read and understand Data, Data Pre-processing and Model Building using various Machine Learning algorithms to solve challenging business problems that translate data into business insights.Used my skills to solve various Data Science problems now eager to apply the same knowledge to realworld business problems coupled with 7+ years of total experience. Involved in github open source community and passionate about machine learning.Data Analyst,Certified Data Scientist from IABAC Having done various certifications on Data Science like Getting started with Data science, Data migration to SAP S/4HANA, Data Science in action-building a predictive churn model, IABAC certified with 90.38%,Open SAP certified,Certified Data Scientist and other certifications related to Data Science I am extremely passionate about working for the corporate/organisation where I can prove myself I am the best. Currently I work as Data services consultant part of Data science team where I work on Data collection,Data preparation-selecting data variable and feature selection, Data cleansing- (cleansing, enriching, standardisation, deduplication),Data manipulation, Data wrangling, Initial data analysis, Master data analyst/specialist, Data extraction,Data encoding -prepares missing values in the data, deals with outliers and creates data bins to transform raw data into mineble information, Decision making , ETL process-extract transform and load.
 
+![image](https://user-images.githubusercontent.com/60610571/154699281-00ccb832-8c97-45e1-819e-ba156afd5b5a.png)
+
+
 ### I am done
 
 ### 🔷MS(Data science)-2022
