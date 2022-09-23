@@ -6,7 +6,7 @@
 
 ### I am done
 
-### 🔷MS(Data science)-2022
+### 🔷MS(Data science)-2023
 ### 🔷PGP(Data science)-2020
 ### 🔷Bachelor of Engineering (Computer Science)-2014
 
