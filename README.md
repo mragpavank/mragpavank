@@ -6,9 +6,10 @@
 
 ### I am done
 
-### 🔷MS(Data science)-2023
-### 🔷PGP(Data science)-2020
-### 🔷Bachelor of Engineering (Computer Science)-2014
+### 🔷MS(Data science) Liverpool John Moores University-2023
+### 🔷PGP(Data science) International Institute of Information Technology-2022
+### 🔷PGP(Data science) Carnegie Mellon University-2020
+### 🔷Bachelor of Engineering(Computer Science) Visvesvaraya Technological University-2014
 
 ### Created Only group in LinkedIn in which is full of Data science, Data scientists ,Machine learning ,Big data and Artificial intelligence professionals can join here https://lnkd.in/eSxxKJf
 
