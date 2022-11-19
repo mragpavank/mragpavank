@@ -1,10 +1,16 @@
                                                            
 ### Hi there 👋 I am Pavan Kumar D
 
-### Subscribe to my YouTube here [YouTube channel](https://youtube.com/@PavanKumar26)
-### Check out my Kaggle here [Kaggle profile](https://www.kaggle.com/mragpavank)
+### •	My Hobbies are Blogging, Kaggling, Vlogging, Photography, Movies, YouTuber, Content creation
+### •	👯 I’m looking to build community on Data science.
+### •	💬 Ask me about Data
+### •	😄 Pronouns: Pavan Kumar
+### •	My Qualifications are B.E(Comp Science), PGP (Data Science), EPGD (Data Science), MS (Data Science)
+### • Subscribe to my YouTube here [YouTube channel](https://youtube.com/@PavanKumar26)
+### • Check out my Kaggle here [Kaggle profile](https://www.kaggle.com/mragpavank)
 
-### My Hobbies : Blogging, Kaggling,Vlogging,Photography,Movies,YouTuber,Content creation
+
+
                             🥇My Kaggle Tier & Medals 🥇 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mragpavank/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mragpavank/dataset/light)
