@@ -1,8 +1,8 @@
                                                            
 ### Hi there 👋 I am Pavan Kumar D
 
-### Subscribe to my [YouTube channel](https://youtube.com/@PavanKumar26)
-### Check out my [Kaggle profile](https://www.kaggle.com/mragpavank)
+### Subscribe to my here [YouTube channel](https://youtube.com/@PavanKumar26)
+### Check out my here [Kaggle profile](https://www.kaggle.com/mragpavank)
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mragpavank/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mragpavank/dataset/light)
