@@ -3,7 +3,7 @@
 
 ### •	😄 Pronouns: Pavan Kumar
 ### •	🧑‍🎓 My Qualifications are B.E(Comp Science), PGP (Data Science), EPGD (Data Science), MS (Data Science)
-### • 👨‍💻 Companies worked for Target Corporation, SAP
+### • 👨‍💻 Companies worked for SAP, Target Corporation
 ### •	🎥 My Hobbies are Blogging, Kaggling, Vlogging, Photography, Movies, YouTuber, Content creation
 ### •	🌱 I’m currently learning Python,Data science,Machine Learning.
 ### •	💬 Ask me about Data
