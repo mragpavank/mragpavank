@@ -2,7 +2,7 @@
 ### Hi there 👋 I am Pavan Kumar D
 
 ### •	My Hobbies are Blogging, Kaggling, Vlogging, Photography, Movies, YouTuber, Content creation
-### •	👯 I’m looking to build community on Data science.
+### •	•	🌱 I’m currently learning Python,Data science,Machine Learning.
 ### •	💬 Ask me about Data
 ### •	😄 Pronouns: Pavan Kumar
 ### •	My Qualifications are B.E(Comp Science), PGP (Data Science), EPGD (Data Science), MS (Data Science)
