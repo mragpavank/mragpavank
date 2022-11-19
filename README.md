@@ -1,6 +1,8 @@
                                                            
 ### Hi there 👋 I am Pavan Kumar D
 
+![Portfolio](https://user-images.githubusercontent.com/60610571/202851427-26f2a6dd-5aa3-486b-8136-610fe07ac2d2.png)
+
 ### •	😄 Pronouns: Pavan Kumar
 ### •	🧑‍🎓 My Qualifications are B.E(Comp Science), PGP (Data Science), EPGD (Data Science), MS (Data Science)
 ### • 👨‍💻 Companies worked for SAP, Target Corporation
