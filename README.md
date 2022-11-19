@@ -3,7 +3,7 @@
 
 ### Subscribe to my here [YouTube channel](https://youtube.com/@PavanKumar26)
 ### Check out my here [Kaggle profile](https://www.kaggle.com/mragpavank)
-
+                            🥇My Kaggle Tier & Medals 🥇
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mragpavank/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mragpavank/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mragpavank/notebook/light)
