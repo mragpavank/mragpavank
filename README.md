@@ -7,7 +7,7 @@
 ### •	🧑‍🎓 My Qualifications are B.E(Comp Science), PGP (Data Science), EPGD (Data Science), MS (Data Science)
 ### • 👨‍💻 Companies worked for SAP, Target Corporation
 ### •	🎥 My Hobbies are Blogging, Kaggling, Vlogging, Photography, Movies, YouTuber, Content creation
-### •	🌱 I’m currently learning Python,Data science,Machine Learning.
+### •	🌱 I’m currently learning Python,Data science,Machine Learning,SQL.
 ### •	💬 Ask me about Data
 ### • Subscribe to my YouTube here [YouTube channel](https://youtube.com/@PavanKumar26)
 ### • Check out my Kaggle here [Kaggle profile](https://www.kaggle.com/mragpavank)
